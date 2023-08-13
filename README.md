@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farai!
-- 👀 I’m interested in machine learning and quantum computing for drug discovery focused on HIV.
+- 👀 I’m interested in deep learning and quantum computing.
 - 🌱 I’m currently learning Qiskit.
 - 💞️ I’m looking to collaborate on quantum biochemistry algorithms.
 - 📫 You can connect with me here ->> https://linktr.ee/faraimazhandu
