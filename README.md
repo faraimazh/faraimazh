@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farai!
 - 👀 I’m interested in deep learning and quantum computing.
-- 🌱 I’m currently learning Qiskit.
+- 🌱 Always updating my Qiskit skills.
 - 💞️ I’m looking to collaborate on quantum and LLMs.
 - 📫 You can connect with me here ->> https://linktr.ee/faraimazhandu
 
